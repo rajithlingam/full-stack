@@ -24,7 +24,7 @@ app.post("/recipe", (req, res) => {
     case "chicken":
       data = obj[0];
       break;
-  
+   
       case "beef":
       data = obj[1];
       break;
